@@ -1,0 +1,3 @@
+The powertrain generates the power that is crucial for the go-kart's performance, while the drivetrain is responsible for effectively delivering that power to the wheels.
+The two systems are interconnected; the efficiency of the powertrain impacts the performance of the drivetrain, and vice versa.
+A well-tuned powertrain will maximize the power available to the drivetrain, resulting in better acceleration and handling. 
