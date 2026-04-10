@@ -8,6 +8,7 @@ Notes/documentation project containing reference material and artifacts.
 - `CONTRIBUTING.md`
 - `gokart.txt`
 - `README.md`
+- `docs/PROJECT_CONTEXT.md`
 - `QUICKSTART.md`
 - `LICENSE`
 
@@ -17,8 +18,7 @@ Notes/documentation project containing reference material and artifacts.
 - `tests/`
 
 ## Getting Started
-1. Open the listed documents/files in this repository.
-2. Use README + docs/ for navigation and future additions.
+1. Open the listed notes/documents.
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md).
